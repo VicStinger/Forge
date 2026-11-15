@@ -1,6 +1,4 @@
 # Forge
-A Xcode port for iOS
-# Forge
 
 An iPhone / iPad app for writing SwiftUI apps on the device, exporting them as
 Xcode projects, and building unsigned IPA files in the cloud.
